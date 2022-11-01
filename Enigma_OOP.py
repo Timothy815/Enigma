@@ -266,7 +266,7 @@ print(f"ENCRYPTED TEXT: {enigma.output}")
 I.applyRotorSetting("T")
 II.applyRotorSetting("D")
 III.applyRotorSetting("K")
-
+#VAKMC OPVZJ IHJFJ KFNTC YVEVB G
 msg2=enigma.output
 
 enigma2 = Enigma(I,II,III, RefB, PB, msg2)
