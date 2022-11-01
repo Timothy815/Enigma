@@ -1,3 +1,4 @@
+//This was changed on desktop...
 class Alphabet{
 	constructor(alphabet){
 		this.alphabet = alphabet;
